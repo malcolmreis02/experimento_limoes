@@ -19,6 +19,6 @@ O objetivo do projeto é analisar a influência da temperatura e da rolagem dos 
 - **Análise de Variância (ANOVA)**: Determinação da influência das variáveis independentes no volume de suco.
 - **Análise Gráfica de Resíduos**: Verificação da adequação do modelo através da visualização dos resíduos.
 
-### Referências
+### Parceiros
 
-1. Dados do experimento: "experimento_limoes.xlsx"
+Esse experimento foi desenvolvido em conjunto por mim, Malcolm dos Reis, e pelos meus amigos Bruna Morgado, Luis Pasquali e Paulo Massao.
